@@ -1,5 +1,10 @@
 # to exclude workspace cache
 obsidian_chgk_bingo/.obsidian/workspace.json
+obsidian_chgk_bingo/.obsidian/appearance.json
+obsidian_chgk_bingo/.obsidian/core-plugins-migration.json
+obsidian_chgk_bingo/.obsidian/core-plugins.json
+obsidian_chgk_bingo/.obsidian/graph.json
+obsidian_chgk_bingo/.obsidian
 
 # Add below lines to exclude OS settings and caches
 .trash/
